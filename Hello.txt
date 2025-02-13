@@ -1,0 +1,3 @@
+Olá, desenvolvedor(a)! Seja muito bem-vindo ao time do Café Qualidade!
+
+Aqui, valorizamos a colaboração, a inovação e, claro, um bom café enquanto criamos soluções incríveis. Este repositório é o ponto de partida para o seu trabalho, onde você encontrará os artefatos, documentações e ferramentas necessárias para desenvolver com qualidade e eficiência.
